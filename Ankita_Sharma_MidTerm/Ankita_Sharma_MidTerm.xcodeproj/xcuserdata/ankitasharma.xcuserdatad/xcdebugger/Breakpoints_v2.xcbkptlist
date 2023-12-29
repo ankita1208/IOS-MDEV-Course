@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "11AB7CEA-DCC5-406E-89C5-4E3D2C32F4A4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "145EFAD7-A9C3-4FAF-9DE7-1BFBF272293D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "145EFAD7-A9C3-4FAF-9DE7-1BFBF272293D - 219249f4e518f547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "145EFAD7-A9C3-4FAF-9DE7-1BFBF272293D - 219249f4e518f547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E9CE54B-59EC-46F3-A7C2-EAB53E01C8AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E9CE54B-59EC-46F3-A7C2-EAB53E01C8AC - 219249f4e518f520"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "3E9CE54B-59EC-46F3-A7C2-EAB53E01C8AC - 219249f4e518f520"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "225B4ABE-F99F-4E87-A8D4-54CF592AA72B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "225B4ABE-F99F-4E87-A8D4-54CF592AA72B - 219249f4e518f501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "225B4ABE-F99F-4E87-A8D4-54CF592AA72B - 219249f4e518f501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AFBA9F4-CBE9-4EE4-98C3-008E1419C863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AFBA9F4-CBE9-4EE4-98C3-008E1419C863 - 219249f4e518f4c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "3AFBA9F4-CBE9-4EE4-98C3-008E1419C863 - 219249f4e518f4c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0992A419-8C73-430F-BC1B-0935C6096A8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0992A419-8C73-430F-BC1B-0935C6096A8B - 219249f4e518f4ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "0992A419-8C73-430F-BC1B-0935C6096A8B - 219249f4e518f4ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83159CA1-357B-4EDA-B9B8-AB444262F231"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "969C4268-C0A5-4F39-8229-73389BCC5484"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "969C4268-C0A5-4F39-8229-73389BCC5484 - 219249f4e518f46e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "969C4268-C0A5-4F39-8229-73389BCC5484 - bda872cf343f9339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "969C4268-C0A5-4F39-8229-73389BCC5484 - 219249f4e518f46e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ankita_Sharma_MidTerm.ContentView.scheduleLocalNotification() -&gt; ()"
+                  moduleName = "Ankita_Sharma_MidTerm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitasharma/Desktop/Ankita_Sharma_MidTerm/Ankita_Sharma_MidTerm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58BBD9AE-AACB-45AF-B9AA-5891D67B8384"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "requestNotificationPermissions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EF72EFA-723C-4500-923B-6FB02C94CFBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E23CDE8D-43DD-4F78-85BD-F441025D4821"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ankita_Sharma_MidTerm/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "scheduleLocalNotification()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
